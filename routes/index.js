@@ -10,7 +10,7 @@ router.get('/about', function(req, res, next) {
 });
 
 router.get ('/', function(req,res,next) {
-  res.render('index',{title:'Welcome to the Project Tracker'});
+  res.render('index',{title:'Student/Freelance Developer'});
 });
 
 
