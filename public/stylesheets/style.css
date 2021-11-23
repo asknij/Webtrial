@@ -1,6 +1,12 @@
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  
+}
+p{
+  font-size: larger;
+  background-image: url("/public/images/page1background.jpg");
+  
 }
 
 a {
